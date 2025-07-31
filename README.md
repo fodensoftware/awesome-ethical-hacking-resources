@@ -4,18 +4,18 @@ Burada paylaştıklarım, hackleme ve sızma testini daha hızlı öğrenmeniz i
 
 ## İçindekiler
 
-- [Kitaplar](#books)
-- [Çevrimiçi ](#online)
-- [Çevrimdışı](#offline)
-- [Zafiyetli Makineler ve Web Siteleri](#Vulnerable-machines-and-websites)
-- [Zafiyet Veri Tabanları Ve Kaynaklar](#vulnerability-databases-and-resources)
-- [Zararlı Yazılım Analizi](#malware-analysis)
-- [Linux Sızma Testi İşletim Sistemleri](#linux-penetration-testing-os)
-- [Kurslar](#courses)
-- [Atölye Çalışması Oynatma Listeleri](#workshop-playlists)
-- [Güvenlik Konuşmaları ve Konferanslar](#security-talks-and-conferences)
-- [YouTube Kanalları](#youtube-channels)
-- [Forumlar](#forums)
+- [Kitaplar](#kitaplar)
+- [Çevrimiçi ](#çevrimiçi)
+- [Çevrimdışı](#çevrimdışı)
+- [Zafiyetli Makineler ve Web Siteleri](#zafiyetli-makinelerweb-siteleri)
+- [Zafiyet Veri Tabanları Ve Kaynaklar](#zafiyet-veritabanları-ve-kaynaklar)
+- [Zararlı Yazılım Analizi](#zararlı-yazılım-analizi)
+- [Linux Sızma Testi İşletim Sistemleri](#linux-sızma-testi-i̇şletim-sistemleri)
+- [Kurslar](#kurslar)
+- [Atölye Çalışması Oynatma Listeleri](#atölye-çalışmalarıoynatma-listeleri)
+- [Güvenlik Konuşmaları ve Konferanslar](#güvenlik-konuşmaları-ve-konferanslar)
+- [YouTube Kanalları](#youtube-kanalları)
+- [Forumlar](#forumlar)
 
 **Fork yapmaya ve katkıda bulunmaya davetlisiniz.**
 
